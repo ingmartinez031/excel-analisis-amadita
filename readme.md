@@ -70,3 +70,4 @@ excel-analisis-amadita/
 📧 Ingmartinez0311@gmail.com
 🔗 [linkedin.com/in/ing-martinez-057b6b181](https://www.linkedin.com/in/ing-martinez-057b6b181/)
 🐙 [github.com/ingmartinez031](https://github.com/ingmartinez031)
+[![Portafolio](https://img.shields.io/badge/Portafolio-ingmartinez031-00B4D8?style=for-the-badge&logo=googlechrome)](https://ingmartinez031.github.io/portafolio-web/)
