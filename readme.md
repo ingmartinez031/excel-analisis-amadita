@@ -68,6 +68,7 @@ excel-analisis-amadita/
 
 **Richard Antonio Martinez Alvarez**
 📧 Ingmartinez0311@gmail.com
-🔗 [linkedin.com/in/ing-martinez-057b6b181](https://www.linkedin.com/in/ing-martinez-057b6b181/)
-🐙 [github.com/ingmartinez031](https://github.com/ingmartinez031)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Martinez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ing-martinez-057b6b181/)
+[![GitHub](https://img.shields.io/badge/GitHub-ingmartinez031-black?style=for-the-badge&logo=github)](https://github.com/ingmartinez031)
 [![Portafolio](https://img.shields.io/badge/Portafolio-ingmartinez031-00B4D8?style=for-the-badge&logo=googlechrome)](https://ingmartinez031.github.io/portafolio-web/)
